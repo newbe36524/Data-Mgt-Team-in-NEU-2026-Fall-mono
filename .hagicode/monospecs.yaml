@@ -1,0 +1,11 @@
+version: "1.0"
+commit_when_archive: false
+repositories:
+  - name: docs
+    url: https://github.com/Data-Mgt-Team-in-NEU-2026-Fall/docs.git
+    path: repos/docs
+    displayName: Docs
+    icon: code
+    tags: []
+    ui:
+      collapseToMore: false
