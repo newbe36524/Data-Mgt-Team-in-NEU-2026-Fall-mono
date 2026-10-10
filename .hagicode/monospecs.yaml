@@ -9,3 +9,19 @@ repositories:
     tags: []
     ui:
       collapseToMore: false
+  - name: NEU-IE6700
+    url: https://github.com/newbe36524/NEU-IE6700.git
+    path: repos/NEU-IE6700
+    displayName: NEU-IE6700
+    icon: code
+    tags: []
+    ui:
+      collapseToMore: false
+  - name: NLP-yes
+    url: https://github.com/NEU-yes/NLP-yes.git
+    path: repos/NLP-yes
+    displayName: NLP-yes
+    icon: code
+    tags: []
+    ui:
+      collapseToMore: false
