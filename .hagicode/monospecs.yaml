@@ -5,7 +5,7 @@ repositories:
     url: https://github.com/Data-Mgt-Team-in-NEU-2026-Fall/docs.git
     path: repos/docs
     displayName: Docs
-    icon: code
+    icon: "📚"
     tags: []
     ui:
       collapseToMore: false
@@ -13,7 +13,7 @@ repositories:
     url: https://github.com/newbe36524/NEU-IE6700.git
     path: repos/NEU-IE6700
     displayName: NEU-IE6700
-    icon: code
+    icon: "🗃️"
     tags: []
     ui:
       collapseToMore: false
@@ -21,7 +21,15 @@ repositories:
     url: https://github.com/NEU-yes/NLP-yes.git
     path: repos/NLP-yes
     displayName: NLP-yes
-    icon: code
+    icon: "💬"
+    tags: []
+    ui:
+      collapseToMore: false
+  - name: NEU-IE6400
+    url: https://github.com/newbe36524/NEU-IE6400.git
+    path: repos/NEU-IE6400
+    displayName: NEU-IE6400
+    icon: "📊"
     tags: []
     ui:
       collapseToMore: false
