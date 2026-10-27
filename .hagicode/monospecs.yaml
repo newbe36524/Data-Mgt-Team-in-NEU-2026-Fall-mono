@@ -41,3 +41,11 @@ repositories:
     tags: []
     ui:
       collapseToMore: false
+  - name: NEU-AICR
+    url: https://github.com/newbe36524/NEU-AICR.git
+    path: repos/NEU-AICR
+    displayName: NEU-AICR
+    icon: "📁"
+    tags: []
+    ui:
+      collapseToMore: false
