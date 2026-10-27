@@ -33,3 +33,11 @@ repositories:
     tags: []
     ui:
       collapseToMore: false
+  - name: NEU-INPR0610
+    url: https://github.com/newbe36524/NEU-INPR0610.git
+    path: repos/NEU-INPR0610
+    displayName: NEU-INPR0610
+    icon: "📁"
+    tags: []
+    ui:
+      collapseToMore: false
